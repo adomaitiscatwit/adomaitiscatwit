@@ -1,5 +1,5 @@
 - 👋 Hi, I’m C Adomaitis
-- 👀 I’m interested in Artificial Inteligence
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning JAVA, JavaScript, Python.
 - 💞️ I’m looking to collaborate on College Projects
 - 📫 How to reach me: email: adomaitisc@wit.edu
