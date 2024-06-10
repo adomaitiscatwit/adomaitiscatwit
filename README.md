@@ -1,2 +1,5 @@
 This is my education account.
-Find @adomaitisc on GitHub
+
+You can find me on:
+- [@adomaitisc](https://adomaitisc.com/ext/github)
+- [adomaitisc.com](https://adomaitisc.com)
